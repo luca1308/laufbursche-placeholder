@@ -165,7 +165,7 @@ body::after {
   background: url('../images/watermark.png');
   pointer-events: none;
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: 50%;
 }
 
 a {
