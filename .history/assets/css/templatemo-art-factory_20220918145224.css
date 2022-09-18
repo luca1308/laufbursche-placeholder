@@ -163,7 +163,6 @@ body::after {
   left: 0;
   background:url('../images/watermark.png');
   pointer-events: none;
-  background-repeat: no-repeat;
 }
 
 a {

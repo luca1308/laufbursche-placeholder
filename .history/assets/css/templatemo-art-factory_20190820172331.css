@@ -154,18 +154,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-body::after {
-  content: '';
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  background:url('../images/watermark.png');
-  pointer-events: none;
-  background-repeat: no-repeat;
-}
-
 a {
   text-decoration: none !important;
 }
@@ -735,7 +723,7 @@ welcome
   justify-content: center;
   background-image: url(../images/banner-bg.png);
   background-repeat: no-repeat;
-  /*
+/*
 TRY IT ... with or without CENTER CENTER
   background-position: center center; 
 */
